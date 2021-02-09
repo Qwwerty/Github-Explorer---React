@@ -1,1 +1,1 @@
-# Github-Explorer---React
+# Github Explorer - React
